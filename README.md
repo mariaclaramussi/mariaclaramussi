@@ -9,7 +9,7 @@
 ### 💬 I can contribute with:  
 - Backend development with **Node.js**  
 - Frontend development with **React**, **TypeScript**, **Tailwind CSS** and **Bootstrap CSS**
-- Semore delivering **Unit Tests w/ Jest** and **E2E w/ Cypress** 
+- Always delivering **Unit Tests w/ Jest** and **E2E w/ Cypress** 
 - Experience in creating **Design Systems** 
 - Best practices in **software architecture** and **design patterns**
 
